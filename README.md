@@ -6,7 +6,12 @@ Esse repositório contém os códigos em python criados para o desafio da Neurot
  - Python 3.8 ou superior
  - Pyspark 3.1.2 ou superior
 
-### Detalhamento
+## Detalhamento
+
+### codigos
 - extracao.py: teve como objetivo obter todos os dados do servidor da ANS;
 - transformacao1.py: foi criado para gerar a tabelação única inicial;
 - transformacao2.py: gera a tabela fato para o problema em específico citado na apresentação.
+
+### documentacao
+- dicionario_dados_sergio.ods: dicionário de dados da tabela final criada.
